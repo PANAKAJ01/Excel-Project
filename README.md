@@ -1,53 +1,43 @@
-# 📊 Excel Project: [Project Name]
-
 ![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg)  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Excel](https://img.shields.io/badge/Microsoft%20Excel-Office-green?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?logo=github)](https://github.com/yourusername)
 
 ---
 
 ## 💡 Project Overview
-This Excel project demonstrates **[your project topic, e.g., Sales Data Analysis, Dashboard Creation, Data Cleaning]**.  
-The goal is to **transform raw data into actionable insights** using Excel’s formulas, charts, pivot tables, and dashboards.  
+This Excel project is designed for a **Coffee Shop** to **analyze sales data and visualize insights**.  
+The main purpose is to **extract data, calculate totals, and create an interactive dashboard** for decision-making.  
 
-Key Highlights:  
-- ✅ Clean and organized data sheets  
-- ✅ Interactive **dashboards & charts**  
-- ✅ Automated **calculations** with formulas  
-- ✅ Conditional formatting for better visualization  
-- ✅ Pivot tables for quick insights  
+**Key Objectives:**
+- Retrieve specific information using **VLOOKUP** and **INDEX-MATCH**  
+- Perform conditional calculations using **SUMIF** and **SUMIFS**  
+- Generate a **dashboard** to visualize sales trends, revenue, and product performance  
 
 ---
 
-## 📁 Project Structure
-
-Excel-Project/
-
-Data | Reports | Dashboards
-
-
----
-
-## 📊 Features
-- **Dynamic Dashboards:** Visualize trends and KPIs  
-- **Formulas:** SUM, VLOOKUP, IF, INDEX, MATCH, etc.  
-- **Charts:** Column, Line, Pie, Combo charts for insight visualization  
-- **Pivot Tables:** Quickly summarize large datasets  
-- **Conditional Formatting:** Highlight key data points automatically  
-- Optional: **Macros / VBA** for automation  
+## 🛠 Formulas & Functions Used
+- **VLOOKUP:** Lookup product, category, or customer data  
+- **INDEX-MATCH:** Advanced lookup for more flexible data retrieval  
+- **SUMIF / SUMIFS:** Conditional summing for sales, revenue, and category totals  
+- **Basic Excel Formulas:** SUM, AVERAGE, COUNT  
+- **Charts & Visuals:** Column, Line, Pie charts for data presentation  
 
 ---
 
-## 📈 Sample Dashboard Preview
-![Sample Dashboard](https://via.placeholder.com/600x300?text=Dashboard+Preview)  
+## 📊 Dashboard Features
+- **Sales Analysis:** Monthly sales, best-selling products  
+- **Revenue Trends:** Daily/Monthly revenue comparison  
+- **Category Insights:** Performance of different coffee types  
+- **Interactive Visualization:** Easy-to-read charts and pivot tables  
 
-> Example of how the dashboard displays key insights from the data.
+![Sample Dashboard](https://via.placeholder.com/600x300?text=Coffee+Shop+Dashboard)  
+
+> The dashboard automatically updates when you modify the data in the **Data** sheet.
 
 ---
 
 ## 🚀 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/excel-project.git
+   git clone https://github.com/yourusername/coffee-shop-excel.git
