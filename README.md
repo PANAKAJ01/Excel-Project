@@ -25,10 +25,14 @@ Key Highlights:
 
 Excel-Project/
 │
-├─ Data/ # Raw data files (CSV/XLSX)
-├─ Reports/ # Processed outputs
-├─ Dashboards/ # Excel dashboards & charts
-└─ README.md # Project documentation
+├─
+Data/ # Raw data files (CSV/XLSX)
+├─ 
+Reports/ # Processed outputs
+├─ 
+Dashboards/ # Excel dashboards & charts
+└─ 
+README.md # Project documentation
 
 ---
 
