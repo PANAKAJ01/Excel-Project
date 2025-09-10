@@ -1,4 +1,7 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel Logo" width="40" style="vertical-align:middle;" />
+<h1>
+ <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" style="vertical-align:middle;"> 
+ Excel Projects Repository
+</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Excel](https://img.shields.io/badge/Microsoft%20Excel-Office-green?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
