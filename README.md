@@ -26,13 +26,8 @@ Key Highlights:
 Excel-Project/
 │
 ├─
-Data
-├─ 
-Reports
-├─ 
-Dashboards
-└─ 
-README.md 
+Data | Reports | Dashboards
+
 
 ---
 
