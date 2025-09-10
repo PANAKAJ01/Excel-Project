@@ -24,8 +24,7 @@ Key Highlights:
 ## 📁 Project Structure
 
 Excel-Project/
-│
-├─
+
 Data | Reports | Dashboards
 
 
