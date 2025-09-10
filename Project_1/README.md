@@ -1,6 +1,6 @@
 <h1>
  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" style="vertical-align:middle;"> 
- Excel Projects Repository
+ Excel Projects 
 </h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
