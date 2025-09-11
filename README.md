@@ -24,7 +24,7 @@ Key highlights:
 | Project Name             | Description |
 |---------------------------|-------------|
 | **Coffee Shop Dashboard** | A professional sales dashboard for a coffee shop — tracks total sales, top products, peak sales hours, and monthly trends. |
-| **[Add Other Projects]** | (Describe other projects here when you add them) |
+| **Sales Lookup & Analysis** | Demonstrates advanced Excel formulas to search and analyze sales data. Uses VLOOKUP, INDEX + MATCH, and SUMIFS to dynamically retrieve customer/product details and calculate total sales across different conditions. |  
 
 ---
 
