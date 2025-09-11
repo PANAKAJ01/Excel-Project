@@ -1,6 +1,8 @@
-# <h1>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" style="vertical-align:middle;" />  Excel Projects Repository
+<h1>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" style="vertical-align:middle;" />  
+  Excel Projects Repository
 </h1>
+
 
 Welcome to the **Excel Projects Repository** — a collection of data analysis, reporting, and dashboard projects created using **Microsoft Excel**.  
 These projects highlight skills in **data cleaning, visualization, automation (VBA), and interactive dashboards**.
